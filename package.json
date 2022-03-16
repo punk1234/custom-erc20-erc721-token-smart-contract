@@ -1,0 +1,29 @@
+{
+  "name": "custom-erc20-erc721-token-smart-contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/punk1234/custom-erc20-erc721-token-smart-contract.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/punk1234/custom-erc20-erc721-token-smart-contract/issues"
+  },
+  "homepage": "https://github.com/punk1234/custom-erc20-erc721-token-smart-contract#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "@nomiclabs/hardhat-etherscan": "^3.0.3",
+    "hardhat": "^2.9.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
+    "dotenv": "^16.0.0"
+  }
+}
